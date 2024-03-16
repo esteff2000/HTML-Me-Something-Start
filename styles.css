@@ -1,1 +1,17 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    background-color: red;
+}
+
+#testP {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.funParagraph {
+    background-color: green;
+}
+
